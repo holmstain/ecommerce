@@ -24,10 +24,6 @@ React-Icons
 hot-toast
 
 ## Katkıda Bulunma Yönergeleri
-- Projeye katkıda bulunmak isterseniz, lütfen aşağıdaki e-posta adresi üzerinden bizimle iletişime geçin:
+- Projeye katkıda bulunmak isterseniz, lütfen aşağıdaki e-posta adresi üzerinden benimle iletişime geçin:
 
 * E-posta: info@holmstain.com
-
-
-Lisans
-Bu proje MIT Lisansı ile lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasına bakabilirsiniz.
